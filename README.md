@@ -27,8 +27,8 @@ Tenho vários projetos fixados, mas o meu favorito é o "Portfolio".
 
 Fatos divertidos:
 
-Eu tenho uma cachorra
+• Eu tenho uma cachorra
 
-One Piece é meu anime favorito
+• One Piece é meu anime favorito
 
-Hobbies: academia, programar, construir coisas
+• Hobbies: academia, programar, construir coisas
