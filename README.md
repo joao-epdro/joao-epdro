@@ -24,11 +24,3 @@ Minhas ferramentas principais é HTMl5, CSS3 e JavaScript.
 
 Tenho vários projetos fixados, mas o meu favorito é o "Portfolio".
 
-
-Fatos divertidos:
-
-• Eu tenho uma cachorra
-
-• One Piece é meu anime favorito
-
-• Hobbies: academia, programar, construir coisas
