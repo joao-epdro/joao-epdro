@@ -2,9 +2,12 @@
 
 **`Front End Iniciante`**
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor-Web Iniciante;" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor-Web%20Iniciante;&center=true&width=380" />
+  </a>
 </p>
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
