@@ -1,4 +1,4 @@
-## Olá 👋
+## 👨‍💻 Joao Pedro
 
 <!--
 **joao-epdro/joao-epdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou João, um desenvolvedor Front-End baseado no Brasil.
-
-Eu projeto e construo tudo o que consigo imaginar.
-
-Se uma ideia aparece na minha cabeça, é bem provável que eu a construa e publique.
-
-Minhas ferramentas principais é HTMl5, CSS3 e JavaScript.
-
-Tenho vários projetos fixados, mas o meu favorito é o "Portfolio".
-
+Me chamo Joao, tenho 14 anos
