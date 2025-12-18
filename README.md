@@ -2,7 +2,7 @@
 
 **`Front End Iniciante`**
 
-<p>
+<p align-items="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor-Web%20Iniciante;&center=true&width=380" />
   </a>
