@@ -10,12 +10,14 @@
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="#">
         <img
             alt="telefone"
             title="telefone"
             src="https://custom-icon-badges.demolab.com/badge/-199--941--8424-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
+    </a>
+    <a href="https://www.instagram.com/joao.antosz/">
         <img
             alt="instagram"
             title="instagram"
