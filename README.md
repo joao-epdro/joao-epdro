@@ -17,7 +17,7 @@
             src="https://custom-icon-badges.demolab.com/badge/-199--941--8424-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/joao.antosz/" target="_blank">
+    <a href="https://www.instagram.com/https://www.instagram.com/joao.antosz//" target="_blank">
         <img
             alt="instagram"
             title="instagram"
